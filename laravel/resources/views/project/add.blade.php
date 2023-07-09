@@ -36,7 +36,7 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="">Single Image</label>
-                                    <input type="file" class="form-control">
+                                    <input type="file" class="form-control" accept="image/*">
                                 </div>
                             </div>
                             <div class="col-md-12">
